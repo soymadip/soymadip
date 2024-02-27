@@ -13,7 +13,7 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 
 ## Hello folks 👋 
 
-I am Souadip Das, a CST student & tech enthusiast. Specially intrested in linux & backend development. I have been surfing the web and learning coding.
+I am Soumadip Das, a CST student & tech enthusiast. Specially intrested in linux & backend development. I have been surfing the web and learning coding.
 
 ### Social Links:-
 <div align="left">

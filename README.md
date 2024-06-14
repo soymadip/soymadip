@@ -19,8 +19,8 @@ I am Soumadip Das, a CS student & tech enthusiast. Specially intrested in linux 
 <div align="left">
 
 
-[![GitHub followers](https://img.shields.io/github/followers/soymadip?label=Git-Followers&style=flat-square)](https://github.com/soymadip)
-[![Website Badge](https://img.shields.io/badge/🌐-Soumadip-green)](https://soumadip.gitbook.io)
+[![GitHub followers](https://img.shields.io/github/followers/soymadip?label=Followers:&style=flat-square)](https://github.com/soymadip)
+[![Website Badge](https://img.shields.io/badge/🌐-Soumadip-green)](https://soymadip.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-Soumadip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumadip-das-in/)](https://www.linkedin.com/in/soumadip-das-in/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://telegram.me/soymadip)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://https://discordapp.com/users/soymadip)

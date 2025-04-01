@@ -1,29 +1,30 @@
-<p align="center">
-  <img src="assets/readme.gif" alt="Soymadip">
-</p>
 
-<!--
-How to make this gif?
-Easiest way:-
+<h1 align="center">Hi 👋, I'm Soumadip Das</h1>
+<h3 align="center">A passionate FOSS developer from India</h3>
 
-I made mine with https://bit.ly/GitPro07
-Then i recorded my screen with OBS..
-Now copy that file to android/iOS and convert to gif with any video tool. (I used inshot)
--->
-
-## Hello folks 👋 
-
-I am Soumadip Das, a CS student & tech enthusiast. Specially intrested in linux & system engineering.
 <br>
-I've been surfing the web and learning coding.
+<img align="right" alt="Coding" width="350" src="./assets/working.gif">
 
-### Social Links:-
-<div align="left">
+<br><br><br>
 
+- 🌱 I’m currently learning **python, C++, lua**.
 
-[![GitHub followers](https://img.shields.io/github/followers/soymadip?label=Followers:&style=flat-square)](https://github.com/soymadip)
-[![Website Badge](https://img.shields.io/badge/🌐-Soumadip-green)](https://soymadip.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/-Soumadip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumadip-das-in/)](https://www.linkedin.com/in/soumadip-das-in/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://telegram.me/soymadip)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://https://discordapp.com/users/soymadip)
+- ⭐ Intrested in **automation, system engineering**
+
+- 💬 Find me at [soymadip.me](https://soymadip.me/)
+
+- 📫 Reach me at [soumadip@zohomail.in](https://soymadip.me/l/mail)
+
+ 
+<br><br>
+<br><br>
+
+<p><img align="left" src="https://gh-readme-status.vercel.app/api/top-langs?username=soymadip&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="soymadip" /></p>
+
+<p align="right"><img width="400" src="https://gh-readme-status.vercel.app/api?username=soymadip&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="soymadip" /></p>
+
+<br>
+
+<p align="center"><img src="https://gh-streaks-stats.vercel.app?user=soymadip&theme=tokyonight&hide_border=true" alt="soymadip" /></p>
+
 

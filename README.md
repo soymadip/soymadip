@@ -5,7 +5,7 @@
 <br>
 <img align="right" alt="Coding" width="350" src="./assets/working.gif">
 
-<br><br><br>
+<br><br>
 
 - 🌱 I’m currently learning **python, C++, lua**.
 

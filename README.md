@@ -7,7 +7,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **python, C,C++, lua**.
+- 🌱 I’m currently learning **python, C/C++, lua**.
 
 - ⭐ Intrested in **automation, system engineering**
 

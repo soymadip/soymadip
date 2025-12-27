@@ -11,9 +11,9 @@
 
 - ⭐ Intrested in **automation, system engineering**
 
-- 💬 Find me at [soymadip.me](https://soymadip.me/)
+- 💬 Find me at [soymadip.me](https://soymadip.github.io/)
 
-- 📫 Reach me at [soumadip@zohomail.in](https://soymadip.me/l/mail)
+- 📫 Reach me at [soumadip@zohomail.in](https://soymadip.github.io/l/mail)
 
  
 <br><br>

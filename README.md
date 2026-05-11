@@ -4,7 +4,7 @@
 
 > [!IMPORTANT]
 > **I have moved to GitLab.**  
-> All my current projects are now developed on GitLab.
+> All my projects are now being developed on GitLab.
 
 ### 🦊 Find me at **[gitlab.com/soymadip](https://gitlab.com/soymadip)**
 
@@ -19,6 +19,6 @@
 
 ### 🛠️ Why the move?
 
-Since some time, I am experiencing various problems & downtimes with github. So I decided to move to GitLab.   
+For some time, I am experiencing various problems & downtimes with github. So I decided to move to GitLab.   
 
 *This GitHub account remains active for contribution in other projects and mirror of my projects.*

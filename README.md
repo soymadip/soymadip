@@ -3,7 +3,8 @@
 <br> 
 
 > [!IMPORTANT]
-> **I have moved to GitLab.** > I am no longer active on GitHub. All my current projects are now developed on GitLab.
+> **I have moved to GitLab.**  
+> All my current projects are now developed on GitLab.
 
 ### 🦊 Find me at **[gitlab.com/soymadip](https://gitlab.com/soymadip)**
 

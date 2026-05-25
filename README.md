@@ -6,9 +6,9 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **python, C/C++, lua**.
+- 🌱 I’m currently learning **Python, C/C++, Bash, Lua**.
 
-- ⭐ Interested in **automation, system engineering**
+- ⭐ Interested in **Linux, automation, system engineering**
 
 - 💬 Find me at [soymadip.is-a.dev](https://soymadip.github.io/)
 

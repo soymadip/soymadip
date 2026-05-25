@@ -1,24 +1,26 @@
-# Hi 👋, I'm Soumadip Das
+<h1 align="center">Hi 👋, I'm Soumadip Das</h1>
+<h3 align="center">A passionate FOSS developer from India</h3>
 
-<br> 
+<br>
+<img align="right" alt="Coding" width="350" src="./assets/working.gif">
 
-> [!IMPORTANT]
-> **I have moved to GitLab.**  
-> All my projects are now being developed on GitLab.
+<br><br>
 
-### 🦊 Find me at **[gitlab.com/soymadip](https://gitlab.com/soymadip)**
+- 🌱 I’m currently learning **python, C/C++, lua**.
 
+- ⭐ Interested in **automation, system engineering**
 
----
+- 💬 Find me at [soymadip.is-a.dev](https://soymadip.github.io/)
 
-### 🌐 Other Links
-- **Portfolio:** [soymadip.is-a.dev](https://soymadip.is-a.dev)
-- **Email:** [soumadip@zohomail.in](mailto:soumadip@zohomail.in)
+- 📫 Reach me at [soumadip[at]zohomail.in](https://soymadip.github.io/l/mail)
 
----
+<br><br>
+<br><br>
 
-### 🛠️ Why the move?
+<p><img align="left" src="https://gh-readme-status.vercel.app/api/top-langs?username=soymadip&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="soymadip" /></p>
 
-For some time, I am experiencing various problems & downtimes with github. So I decided to move to GitLab.   
+<p align="right"><img width="400" src="https://gh-readme-status.vercel.app/api?username=soymadip&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="soymadip" /></p>
 
-*This GitHub account remains active for contribution in other projects and mirror of my projects.*
+<br>
+
+<p align="center"><img src="https://gh-streaks-stats.vercel.app?user=soymadip&theme=tokyonight&hide_border=true" alt="soymadip" /></p>
